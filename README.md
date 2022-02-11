@@ -13,7 +13,7 @@
 > Institusi : Universitas Muhammadiyah Mataram
 
 > Nama : Titin Yustika <br/>
-> Institusi : Universitas Muhammadiyah Mataram
+> Institusi : Universitas Bumigora - Mataram
 
 > Nama : Hafif Nur Muhammad <br/>
-> Institusi : Universitas Muhammadiyah Mataram
+> Institusi : Universitas Bumigora - Mataram
