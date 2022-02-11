@@ -1,6 +1,6 @@
 Cara berkontribusi :
 1. fork repository
-2. edit file "Daftar Mahasiswa"
+2. edit file "readme.md"
 3. masukan nama & instansi
 4. tambahkan deskripsi & commit changes
 5. pull requests
@@ -10,3 +10,32 @@ Nb: repository ini hanya semata untuk belajar modul "studi kasus kolaborasi deng
 
 Terima Kasih atas kontribusinya <br/>
 Salam saya ):
+
+
+=======================================================================================
+# Daftar Mahasiswa :
+
+> Nama : Pahrurozi <br/>
+> Institusi : Universitas Bumigora - Mataram
+
+> Nama : Wisnu Mahendra <br/>
+> Institusi : Universitas Mataram
+
+> Nama : Muhammad Zakaria <br/>
+> Institusi : Universitas Bumigora - Mataram
+
+> Nama : Rudi Saputra <br/>
+> Institusi : Universitas Muhammadiyah Mataram
+
+> Nama : Titin Yustika <br/>
+> Institusi : Universitas Bumigora - Mataram
+
+> Nama : Hafif Nur Muhammad <br/>
+> Institusi : Universitas Bumigora - Mataram
+
+> Nama : Afif Nur Azizi <br/>
+> Institusi : Universitas Bumigora - Mataram
+
+> Nama : Mohammad Fikry Al Akrom <br/>
+> Institusi : Universitas Indonesia - Depok
+
