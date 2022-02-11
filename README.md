@@ -9,5 +9,5 @@
 > Nama : Muhammad Zakaria <br/>
 > Institusi : Universitas Bumigora - Mataram
 
-> Nama : Rudi Saputra
+> Nama : Rudi Saputra <br/>
 > Institusi : Universitas Muhammadiyah Mataram
