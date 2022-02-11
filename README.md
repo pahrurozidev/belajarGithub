@@ -40,3 +40,5 @@ Terima Kasih, Salam saya ):
 > Nama : Mohammad Fikry Al Akrom <br/>
 > Institusi : Universitas Indonesia - Depok
 
+> Nama : Iqsyal Maulana <br/>
+> Institusi : Universitas Pancasila - Jakarta Selatan
