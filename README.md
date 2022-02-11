@@ -17,3 +17,6 @@
 
 > Nama : Hafif Nur Muhammad <br/>
 > Institusi : Universitas Bumigora - Mataram
+
+> Nama : Hafif Nur Azizi <br/>
+> Institusi : Universitas Bumigora - Mataram
