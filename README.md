@@ -8,4 +8,4 @@ Cara berkontribusi :
 Nb: repository ini hanya semata untuk belajar modul "studi kasus kolaborasi dengan tim" pada kelas "Belajar git dengan GitHub" SIB 2022 Dicoding
 
 Terima Kasih atas kontribusinya <br/>
-Salam hangat ):
+Salam saya ):
