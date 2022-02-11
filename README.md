@@ -1,5 +1,4 @@
-# git-github
+List Mahasiswa :
 
-
-
-change line new text
+Nama : Pahrurozi
+Institusi : Universitas Bumigora - Mataram
