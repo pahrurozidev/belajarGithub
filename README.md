@@ -5,7 +5,7 @@ Cara berkontribusi :
 4. tambahkan deskripsi & commit changes
 5. pull requests
 
-Nb: repository ini hanya semata untuk belajar pada kelas "Belajar git dengan GitHub" SIB 2022 Dicoding
+Nb: repository ini hanya semata untuk belajar modul "studi kasus kolaborasi dengan tim" pada kelas "Belajar git dengan GitHub" SIB 2022 Dicoding
 
 Terima Kasih atas kontribusinya <br/>
-Salah hangat ):
+Salam hangat ):
