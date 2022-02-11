@@ -1,6 +1,6 @@
 Cara berkontribusi :
 1. fork repository
-2. edit file "readme.md"
+2. edit file "README.md"
 3. masukan nama & instansi
 4. tambahkan deskripsi & commit changes
 5. pull requests
@@ -8,11 +8,11 @@ Cara berkontribusi :
 
 Nb: repository ini hanya semata untuk belajar modul "studi kasus kolaborasi dengan tim" pada kelas "Belajar git dengan GitHub" SIB 2022 Dicoding
 
-Terima Kasih atas kontribusinya <br/>
+Terima Kasih, kontribusi teman teman akan sangat saya hargai<br/>
 Salam saya ):
 
 
-=======================================================================================
+==============================================
 # Daftar Mahasiswa :
 
 > Nama : Pahrurozi <br/>
