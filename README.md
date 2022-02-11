@@ -5,3 +5,6 @@
 
 > Nama : Wisnu Mahendra <br/>
 > Institusi : Universitas Mataram
+
+> Nama : Muhammad Zakaria <br/>
+> Institusi : Universitas Bumigora - Mataram
