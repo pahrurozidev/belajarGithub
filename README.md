@@ -1,3 +1,11 @@
+Cara berkontribusi :
+1. fork repository
+2. edit readme.md
+3. masukan nama & instansi
+
+Terima Kasih atas kontribusinya
+Salah hangat ):
+
 # Daftar Mahasiswa :
 
 > Nama : Pahrurozi <br/>
