@@ -25,9 +25,6 @@ Terima Kasih, Salam saya ):
 > Nama : Muhammad Zakaria <br/>
 > Institusi : Universitas Bumigora - Mataram
 
-> Nama : Rudi Saputra <br/>
-> Institusi : Universitas Muhammadiyah Mataram
-
 > Nama : Titin Yustika <br/>
 > Institusi : Universitas Bumigora - Mataram
 
