@@ -40,5 +40,9 @@ Terima Kasih, Salam saya ):
 > Nama : Iqsyal Maulana <br/>
 > Institusi : Universitas Pancasila - Jakarta Selatan
 
+> Nama : Raihan Cahtra Rizqy Prian Pratama <br/>
+> Institusi : Universitas Islam Sultan Agung - Semarang
+
 > Nama : Firlon Paembong <br/>
 > Institusi : STIMIK AKBA - Makassar
+
