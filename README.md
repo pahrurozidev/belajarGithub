@@ -39,3 +39,6 @@ Terima Kasih, Salam saya ):
 
 > Nama : Iqsyal Maulana <br/>
 > Institusi : Universitas Pancasila - Jakarta Selatan
+
+> Nama : Firlon Paembong <br/>
+> Institusi : STIMIK AKBA - Makassar
