@@ -52,3 +52,8 @@ Terima Kasih, Salam saya ):
 > Nama : Kadek Frama Danamastyana <br/>
 > Institusi : Udayana University - Badung, Bali
 
+> Nama : Lalu Muhamad Zakiul Fikri <br/>
+> Institusi : Universitas Bumigora - Mataram
+
+
+
