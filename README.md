@@ -52,3 +52,5 @@ Terima Kasih, Salam saya ):
 > Nama : Kadek Frama Danamastyana <br/>
 > Institusi : Udayana University - Badung, Bali
 
+> Nama : Muhammad Fachrurrazi <br/>
+> Institusi : Lambung Mangkurat University - Banjarmasin
