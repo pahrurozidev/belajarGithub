@@ -58,3 +58,6 @@ Terima Kasih, Salam saya ):
 > Nama : Muhammad Fachrurrazi <br/>
 > Institusi : Lambung Mangkurat University - Banjarmasin
 
+> Nama : Nur Intan Aprilia <br/>
+> Institusi : Universitas Bumigora - Mataram
+
