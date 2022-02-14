@@ -49,3 +49,6 @@ Terima Kasih, Salam saya ):
 > Nama : Ichsanul Kamil Sudarmi <br/>
 > Institusi : President University - Cikarang
 
+> Nama : Kadek Frama Danamastyana <br/>
+> Institusi : Udayana University - Badung, Bali
+
