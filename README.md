@@ -55,5 +55,6 @@ Terima Kasih, Salam saya ):
 > Nama : Lalu Muhamad Zakiul Fikri <br/>
 > Institusi : Universitas Bumigora - Mataram
 
-
+> Nama : Muhammad Fachrurrazi <br/>
+> Institusi : Lambung Mangkurat University - Banjarmasin
 
