@@ -46,3 +46,6 @@ Terima Kasih, Salam saya ):
 > Nama : Firlon Paembong <br/>
 > Institusi : STIMIK AKBA - Makassar
 
+> Nama : Ichsanul Kamil Sudarmi <br/>
+> Institusi : President University - Cikarang
+
