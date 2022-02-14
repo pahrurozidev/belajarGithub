@@ -1,4 +1,4 @@
-Cara berkontribusi :
+# Cara berkontribusi :
 1. fork repository
 2. edit file "README.md"
 3. masukan nama & instansi
@@ -13,7 +13,7 @@ Kontribusi teman teman akan sangat saya hargai<br/>
 Terima Kasih, Salam saya ):
 
 
-======================
+==========================
 # Daftar Mahasiswa :
 
 > Nama : Pahrurozi <br/>
