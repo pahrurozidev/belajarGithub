@@ -61,3 +61,5 @@ Terima Kasih, Salam saya ):
 > Nama : Nur Intan Aprilia <br/>
 > Institusi : Universitas Bumigora - Mataram
 
+> Nama : Surya Rosauli Pasaribu
+> Institusi : Universitas Pembangunan Nasional "Veteran" Jawa Timur
