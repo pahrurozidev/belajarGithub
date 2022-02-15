@@ -1,5 +1,5 @@
 # Cara berkontribusi :
-1. fork repository
+1. fork repository yaaa
 2. edit file "README.md"
 3. masukan nama & instansi
 4. tambahkan deskripsi & commit changes
