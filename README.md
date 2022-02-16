@@ -61,3 +61,6 @@ Terima Kasih, Salam saya ):
 > Nama : Nur Intan Aprilia <br/>
 > Institusi : Universitas Bumigora - Mataram
 
+> Nama : Dwi Candra Kirana <br/>
+> Institusi : Universitas Dian Nuswantoro - Semarang
+
