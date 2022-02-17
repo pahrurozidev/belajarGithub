@@ -64,3 +64,6 @@ Terima Kasih, Salam saya ):
 > Nama : Dwi Candra Kirana <br/>
 > Institusi : Universitas Dian Nuswantoro - Semarang
 
+> Nama : Surya Rosauli Pasaribu <br/>
+> Institusi : Universitas Pembangunan Nasional "Veteran" Jawa Timur
+
