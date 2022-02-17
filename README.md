@@ -61,5 +61,9 @@ Terima Kasih, Salam saya ):
 > Nama : Nur Intan Aprilia <br/>
 > Institusi : Universitas Bumigora - Mataram
 
+> Nama : Dwi Candra Kirana <br/>
+> Institusi : Universitas Dian Nuswantoro - Semarang
+
 > Nama : Surya Rosauli Pasaribu <br/>
 > Institusi : Universitas Pembangunan Nasional "Veteran" Jawa Timur
+
