@@ -61,6 +61,9 @@ Terima Kasih, Salam saya ):
 > Nama : Nur Intan Aprilia <br/>
 > Institusi : Universitas Bumigora - Mataram
 
+> Nama : Zandy Qois <br/>
+> Institusi : UPN Veterean Jatim - Surabaya
+
 > Nama : Dwi Candra Kirana <br/>
 > Institusi : Universitas Dian Nuswantoro - Semarang
 
