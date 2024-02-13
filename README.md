@@ -67,3 +67,6 @@ Terima Kasih, Salam saya ):
 > Nama : Surya Rosauli Pasaribu <br/>
 > Institusi : Universitas Pembangunan Nasional "Veteran" Jawa Timur
 
+> Nama : Ahmed Beryl Bayanaka
+> Institusi : Institut Teknologi Sepuluh Nopember Surabaya
+
